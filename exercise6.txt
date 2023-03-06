@@ -1,0 +1,15 @@
+	The syntax for python’s strings is relatively flexible and straightforward making any kind of text data easy to work with. 
+Character sequences can be contained in single or double quotes and even supports triple quoting aslong as it is kept 
+consistent within the program. You could say that the main purpose python strings serve are for text documentation as it 
+works well with large blocks of text. Building on top of this simple syntax system are methods of manipulating strings 
+that give you options for modifying strings in a variety of ways. For example, some options available are methods like 
+“upper” which convert all characters to uppercase and in contrast, the “lower” process does the opposite. Also, “swapcase” 
+simply would reverse any upper case and vis versa. Additionally, the “strip” method removes any whitespace from the start 
+and end of a string, and “replace” can update old string characters to different ones. The process “split” can be used to 
+space out items in a string. The formatting of the syntax as well provides the ability to substitute expressions and 
+variables into strings. All of this in conjunction serves as a great tool for storing and manipulating user input, file 
+paths, and almost any other text data in any context. 
+	For this reason, data processing is a popular example showcasing 
+the use of strings given their analytical nature of them. Any data that can be represented in textual nature such as a 
+list of products and services, user name and additional account information, or other manipulated variable can be 
+categorized, transformed, and analyzed.
